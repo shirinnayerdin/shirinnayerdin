@@ -35,6 +35,13 @@ Implementation and comparison of classical computer vision techniques, including
 
 [View Repository](https://github.com/shirinnayerdin/Brain-Tumor-Segmentation)
 
+### 🔹 Brain Tumor MRI Classification Using Machine Learning
+
+Classical machine learning pipeline for four-class brain MRI classification using intensity and GLCM texture features with SVM, including hyperparameter tuning and quantitative performance evaluation.
+
+[View Repository](https://github.com/shirinnayerdin/Brain-Tumor-ML-Classification)
+
+
 
 ## Publication
 
