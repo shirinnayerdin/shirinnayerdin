@@ -41,8 +41,11 @@ Classical machine learning pipeline for four-class brain MRI classification usin
 
 [View Repository](https://github.com/shirinnayerdin/Brain-Tomur-ML-Classification)
 
+### 🔹 Brain Tumor MRI Classification Using Deep Learning
 
+Deep learning study for four-class brain MRI classification comparing a custom CNN with ResNet18 transfer learning and fine-tuning. The experiments examine generalization, class imbalance, and class-specific performance
 
+[View Repository](https://github.com/shirinnayerdin/Brain-Tumor-MRI-Deep-Learning)
 ## Publication
 
 **Nayerdinzadeh, Shirin, and Yousefi, Mohammad Reza.**
@@ -56,11 +59,13 @@ Majlesi Journal of Electrical Engineering, Vol. 15, No. 3, p. 69, 2021.
 
 ## Technical Skills
 
-**Programming:** Python, C++, C#, MATLAB
+**Programming:** Python, C++, MATLAB
 
-**Libraries & Frameworks:** OpenCV, NumPy, scikit-learn, scikit-image, PyWavelets
+**Machine Learning & Deep Learning:** PyTorch, CNN, Transfer Learning, SVM
 
-**Tools:** Jupyter Notebook, Anaconda
+**Computer Vision:** OpenCV, Image Processing, Feature Extraction, Image Segmentation
+
+**Libraries & Tools:** NumPy, scikit-learn, Matplotlib, Jupyter Notebook, GitHub
 
 ## Contact
 
