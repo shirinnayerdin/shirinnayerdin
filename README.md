@@ -77,7 +77,7 @@ Majlesi Journal of Electrical Engineering, Vol. 15, No. 3, 2021.
 
 **Programming:** Python, C++, C#, MATLAB
 
-**Research Environment:** Jupyter Notebook, Anaconda, GitHub
+**Research Environment:** Jupyter Notebook, Anaconda
 
 ## Contact
 
