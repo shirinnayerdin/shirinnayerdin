@@ -4,24 +4,30 @@
 
 ## About Me
 
-I hold an M.Sc. in Computer Engineering (Computer System Architecture), with a research background in Computer Vision, Digital Image Processing, and Image Forgery Detection.
+I hold an M.Sc. in Computer Engineering (Computer System Architecture), with a research background in computer vision, digital image processing, and image forgery detection.
 
-My current work focuses on applying machine learning and deep learning to visual data, including medical imaging and multispectral remote-sensing imagery. I am particularly interested in image classification, feature and spectral information analysis, and the evaluation of computer vision models across different application domains.
+My current work focuses on deep learning for visual data, particularly medical imaging and multispectral remote sensing. I am interested in cross-dataset generalization, model reliability, external validation, image classification, and the analysis of visual and spectral information across different data sources.
 
 ## Research Interests
 
 - Computer Vision & Digital Image Processing
 - Medical Image Analysis
 - Machine Learning & Deep Learning
+- Cross-Dataset Generalization & Model Reliability
 - Remote Sensing & Multispectral Image Analysis
-- Feature & Spectral Information Analysis
 - Multimedia Forensics & Image Forgery Detection
 
 ## Selected Research Projects
 
+### 🔹 Cross-Dataset Generalization and Failure Detection in Brain MRI Classification
+
+An exploratory study of cross-dataset generalization in four-class brain MRI classification using independent MRI datasets. The project investigates directional performance degradation, class-specific failure patterns, uncertainty-based failure detection using MSR, MLS, and MC-Dropout, and the potential contribution of dataset characteristics to model failures.
+
+[View Repository](https://github.com/shirinnayerdin/Brain-MRI-Cross-Dataset-Generalization)
+
 ### 🔹 Spectral Input Analysis for Maize Condition Classification
 
-An exploratory deep learning study investigating how different spectral input configurations affect five-class maize condition classification. The project compares RGB with selected Red Edge and NIR information and evaluates disease-versus-water-stress discrimination using repeated training experiments.
+An exploratory deep learning study investigating how different spectral input configurations affect five-class maize condition classification. The project compares RGB with selected Red Edge and NIR information and evaluates common-rust versus water-stress discrimination using repeated training experiments.
 
 [View Repository](https://github.com/shirinnayerdin/Spectral-Input-Analysis-for-Maize-Condition-Classification)
 
@@ -45,7 +51,7 @@ Implementation and comparison of classical computer vision techniques, including
 
 ### 🔹 Hybrid Copy-Move Forgery Detection
 
-Python implementation of a hybrid Copy-Move Forgery Detection methodology combining LBP, DWT, and SIFT features with feature matching, decision fusion, and spatial verification.
+Python implementation of a hybrid copy-move forgery detection methodology combining LBP, DWT, and SIFT features with feature matching, decision fusion, and spatial verification.
 
 [View Repository](https://github.com/shirinnayerdin/Copy_Move_Forgery_Detection)
 
@@ -65,13 +71,13 @@ Majlesi Journal of Electrical Engineering, Vol. 15, No. 3, 2021.
 
 ## Technical Skills
 
-**Programming:** Python, C++, MATLAB  
+**Machine Learning & Deep Learning:** PyTorch, Scikit-learn, Transfer Learning, Model Evaluation
 
-**Machine Learning & Deep Learning:** PyTorch, CNN, Transfer Learning, SVM  
+**Computer Vision & Image Processing:** OpenCV, Scikit-image, SIFT, LBP, DWT, GLCM, Multispectral Image Analysis, Spectral Band Analysis
 
-**Computer Vision:** OpenCV, Image Processing, Feature Extraction, Image Segmentation, Multispectral Image Analysis  
+**Programming:** Python, C++, C#, MATLAB
 
-**Libraries & Tools:** NumPy, pandas, scikit-learn, Matplotlib, Jupyter Notebook
+**Research Environment:** Jupyter Notebook, Anaconda, GitHub
 
 ## Contact
 
