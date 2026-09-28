@@ -71,7 +71,7 @@ Majlesi Journal of Electrical Engineering, Vol. 15, No. 3, 2021.
 
 **Computer Vision:** OpenCV, Image Processing, Feature Extraction, Image Segmentation, Multispectral Image Analysis  
 
-**Libraries & Tools:** NumPy, pandas, scikit-learn, Matplotlib, Jupyter Notebook, GitHub
+**Libraries & Tools:** NumPy, pandas, scikit-learn, Matplotlib, Jupyter Notebook
 
 ## Contact
 
